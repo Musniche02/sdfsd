@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+} 
+  .a{
+    background-color: aqua;
+    text-align: center;
+    color: white;
+   }
+   .card{
+    width: 350px;
+    height: 350px;
+    background-color: white; 
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+   }
+.box{
+    background-color: antiquewhite;
+}
+
